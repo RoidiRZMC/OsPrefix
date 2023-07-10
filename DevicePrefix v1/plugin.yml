@@ -1,0 +1,8 @@
+#My Firts NukkitX Plugin
+name: OsPrefix
+main: me.nukkit.osprefix.OSPrefix
+version: "1.0.0"
+api: "1.0.0"
+author: RoidiRZMC
+prefix: "Example"
+

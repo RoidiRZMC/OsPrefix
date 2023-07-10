@@ -1,0 +1,19 @@
+# Configuración del plugin OSPrefix
+
+# Mostrar el prefijo en la tablist
+showPrefixInTabList: true
+
+# Mostrar el prefijo en el nametag
+showPrefixInNameTag: true
+
+# Mostrar el prefijo en el chat
+showPrefixInChat: true
+
+# Prefijo predeterminado
+defaultPrefix: "&a[Prefix]"
+
+# Prefijos personalizados para jugadores específicos
+playerPrefixes:
+  player1: "&b[Admin]"
+  player2: "&e[Mod]"
+  player3: "&c[Builder]"
